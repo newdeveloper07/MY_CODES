@@ -1,0 +1,21 @@
+* {
+    margin: 0px;
+    font-family: arial;
+    border: border-box;
+}
+
+.box1 {
+    height: 600px;
+    width: 500px;
+    background-color: rgb(210, 169, 175);
+    margin-left: 30%;
+    
+}
+
+.lovebite {
+    height: 400px;
+    width: 406px;
+    background-image: url(one.png);
+    background-size: cover;
+    margin-top: 180px;
+}
